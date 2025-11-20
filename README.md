@@ -540,13 +540,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Your Name**
+**S4IM**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@S-A-L-M](https://github.com/S-A-L-M)
+- Email: santiagolozman@gmail.com
 
 ---
 
@@ -554,8 +553,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Flutter team for the amazing framework
 - Flutter community for excellent packages
-- [Professor Name] for project guidance
-- Contributors and testers
 
 ---
 
@@ -565,7 +562,6 @@ Having issues? Here's how to get help:
 
 - 📝 [Open an issue](https://github.com/yourusername/task-forge/issues)
 - 💬 [Discussions](https://github.com/yourusername/task-forge/discussions)
-- 📧 Email: support@taskforge.com
 
 ---
 
