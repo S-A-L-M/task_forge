@@ -405,7 +405,7 @@ Error:     #F44336  // Red
 
 ---
 
-## 📱 User Guide
+## User Guide
 
 <details>
 <summary><b>Creating a Project</b></summary>
@@ -453,7 +453,7 @@ Error:     #F44336  // Red
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [ ] User authentication (JWT)
 - [ ] Offline sync (SQLite)
