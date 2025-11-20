@@ -23,19 +23,19 @@
 
 <div align="center">
 
-### 🎯 Built for Scalability, Designed for Simplicity
+### Built for Scalability, Designed for Simplicity
 
 </div>
 
 ---
 
-## ✨ Features
+## Features
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎨 **User Interface**
+### **User Interface**
 - Modern, clean design with smooth animations
 - Swipe actions for quick editing
 - Skeleton loading states
@@ -45,7 +45,7 @@
 </td>
 <td width="50%">
 
-### ⚡ **Functionality**
+### **Functionality**
 - Full CRUD operations
 - Tree-based task hierarchy
 - Priority levels (High, Medium, Low)
@@ -59,7 +59,7 @@
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ### **Project Structure**
 
@@ -255,7 +255,7 @@ python-dotenv==1.0.0
 
 ---
 
-## 🌐 API Documentation
+## API Documentation
 
 ### **Base URL**
 
@@ -385,7 +385,7 @@ http://localhost:5000/api
 
 ---
 
-## 🎨 Design System
+## Design System
 
 ### **Color Palette**
 
@@ -468,7 +468,7 @@ Error:     #F44336  // Red
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 <details>
 <summary><b>Connection Error with Backend</b></summary>
@@ -499,7 +499,7 @@ flutter run
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ```bash
 # Run unit tests
@@ -514,13 +514,13 @@ flutter test --coverage
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > *Screenshots coming soon...*
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -550,7 +550,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Flutter team for the amazing framework
 - Flutter community for excellent packages
@@ -559,7 +559,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
+## Support
 
 Having issues? Here's how to get help:
 
